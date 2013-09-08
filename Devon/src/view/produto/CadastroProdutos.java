@@ -18,6 +18,8 @@ import java.awt.Color;
 import javax.swing.JComboBox;
 import javax.swing.JSeparator;
 import javax.swing.JCheckBox;
+import java.awt.Choice;
+import javax.swing.JSplitPane;
 
 public class CadastroProdutos extends JFrame {
 
